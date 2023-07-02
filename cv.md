@@ -44,5 +44,4 @@ function paperwork(n, m) {
 ========
 
 **Courses**
-* Selfeducation on [metanit.com] [Ter1]
-[Ter1][https://metanit.com/]
+* Selfeducation on [https://metanit.com/]
